@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Asapmann
-- 👀 I’m interested in creating Discord Bots
-- 🌱 I’m currently learning Node.js
-- 📫 How to reach me? You can DM me on Discord, Discord Username : Asapmann#1642
+Hi, I'm Asapmann, I'm a beginner Python and Node.JS student, mostly interested in Node.JS Discord Bots*(Discord.JS)*.
 
 <!---
 Asapmann/Asapmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
